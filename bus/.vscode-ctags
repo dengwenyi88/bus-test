@@ -1,0 +1,98 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/01b9fc86/
+BUS_MASTER_CH	src/include/bus.v	/^	`define BUS_MASTER_CH	   4	 $/;"	c
+BUS_MASTER_INDEX_W	src/include/bus.v	/^	`define BUS_MASTER_INDEX_W 2	$/;"	c
+BUS_OWNER_MASTER_0	src/include/bus.v	/^	`define BUS_OWNER_MASTER_0 2'h0	$/;"	c
+BUS_OWNER_MASTER_1	src/include/bus.v	/^	`define BUS_OWNER_MASTER_1 2'h1$/;"	c
+BUS_OWNER_MASTER_2	src/include/bus.v	/^	`define BUS_OWNER_MASTER_2 2'h2$/;"	c
+BUS_OWNER_MASTER_3	src/include/bus.v	/^	`define BUS_OWNER_MASTER_3 2'h3$/;"	c
+BUS_SLAVE_0	src/include/bus.v	/^	`define BUS_SLAVE_0		   0	$/;"	c
+BUS_SLAVE_1	src/include/bus.v	/^	`define BUS_SLAVE_1		   1	$/;"	c
+BUS_SLAVE_2	src/include/bus.v	/^	`define BUS_SLAVE_2		   2	$/;"	c
+BUS_SLAVE_3	src/include/bus.v	/^	`define BUS_SLAVE_3		   3	$/;"	c
+BUS_SLAVE_4	src/include/bus.v	/^	`define BUS_SLAVE_4		   4	$/;"	c
+BUS_SLAVE_5	src/include/bus.v	/^	`define BUS_SLAVE_5		   5	$/;"	c
+BUS_SLAVE_6	src/include/bus.v	/^	`define BUS_SLAVE_6		   6	 $/;"	c
+BUS_SLAVE_7	src/include/bus.v	/^	`define BUS_SLAVE_7		   7	 $/;"	c
+BUS_SLAVE_CH	src/include/bus.v	/^	`define BUS_SLAVE_CH	   8	$/;"	c
+BUS_SLAVE_INDEX_W	src/include/bus.v	/^	`define BUS_SLAVE_INDEX_W  3	$/;"	c
+BYTE_DATA_W	src/include/stddef.v	/^	`define BYTE_DATA_W			8		 \/\/ データ幅$/;"	c
+BYTE_MSB	src/include/stddef.v	/^	`define BYTE_MSB			7		 \/\/ 最上位ビット$/;"	c
+BYTE_OFFSET_W	src/include/stddef.v	/^	`define BYTE_OFFSET_W		2		 \/\/ オフセット幅$/;"	c
+BYTE_OFFSET_WORD	src/include/stddef.v	/^	`define BYTE_OFFSET_WORD	2'b00	 \/\/ ワード境界$/;"	c
+BusOwnerBus	src/include/bus.v	/^	`define BusOwnerBus		   1:0	$/;"	c
+BusSlaveIndexBus	src/include/bus.v	/^	`define BusSlaveIndexBus   2:0	$/;"	c
+BusSlaveIndexLoc	src/include/bus.v	/^	`define BusSlaveIndexLoc   29:27 $/;"	c
+ByteDataBus	src/include/stddef.v	/^	`define ByteDataBus			7:0		 \/\/ データバス$/;"	c
+ByteOffsetBus	src/include/stddef.v	/^	`define ByteOffsetBus		1:0		 \/\/ オフセットバス$/;"	c
+ByteOffsetLoc	src/include/stddef.v	/^	`define ByteOffsetLoc		1:0		 \/\/ バイトオフセットの位置$/;"	c
+DISABLE	src/include/stddef.v	/^	`define DISABLE				1'b0	 \/\/ 無効$/;"	c
+DISABLE_	src/include/stddef.v	/^	`define DISABLE_			1'b1	 \/\/ 無効$/;"	c
+ENABLE	src/include/stddef.v	/^	`define ENABLE				1'b1	 \/\/ 有効$/;"	c
+ENABLE_	src/include/stddef.v	/^	`define ENABLE_				1'b0	 \/\/ 有効$/;"	c
+HIGH	src/include/stddef.v	/^	`define HIGH				1'b1	 \/\/ Highレベル$/;"	c
+IMPLEMENT_GPIO	src/include/global_config.v	/^	`define IMPLEMENT_GPIO				\/\/ General Purpose I\/O$/;"	c
+IMPLEMENT_TIMER	src/include/global_config.v	/^	`define IMPLEMENT_TIMER				\/\/ タイマ$/;"	c
+IMPLEMENT_UART	src/include/global_config.v	/^	`define IMPLEMENT_UART				\/\/ UART$/;"	c
+LOW	src/include/stddef.v	/^	`define LOW					1'b0	 \/\/ Lowレベル$/;"	c
+LSB	src/include/stddef.v	/^	`define LSB					0		 \/\/ 最下位ビット$/;"	c
+MEM_DISABLE	src/include/global_config.v	/^		`define MEM_DISABLE	  1'b0		\/\/ メモリ無効$/;"	c
+MEM_DISABLE	src/include/global_config.v	/^		`define MEM_DISABLE	  1'b1		\/\/ メモリ無効$/;"	c
+MEM_ENABLE	src/include/global_config.v	/^		`define MEM_ENABLE	  1'b0		\/\/ メモリ有効$/;"	c
+MEM_ENABLE	src/include/global_config.v	/^		`define MEM_ENABLE	  1'b1		\/\/ メモリ有効$/;"	c
+NEGATIVE_RESET	src/include/global_config.v	/^	`define NEGATIVE_RESET				\/\/ Active Low$/;"	c
+POSITIVE_MEMORY	src/include/global_config.v	/^	`define POSITIVE_MEMORY				\/\/ Active High$/;"	c
+READ	src/include/stddef.v	/^	`define READ				1'b1	 \/\/ 読み出し$/;"	c
+RESET_DISABLE	src/include/global_config.v	/^		`define RESET_DISABLE 1'b0		\/\/ リセット無効$/;"	c
+RESET_DISABLE	src/include/global_config.v	/^		`define RESET_DISABLE 1'b1		\/\/ リセット無効$/;"	c
+RESET_EDGE	src/include/global_config.v	/^		`define RESET_EDGE	  negedge	\/\/ リセットエッジ$/;"	c
+RESET_EDGE	src/include/global_config.v	/^		`define RESET_EDGE	  posedge	\/\/ リセットエッジ$/;"	c
+RESET_ENABLE	src/include/global_config.v	/^		`define RESET_ENABLE  1'b0		\/\/ リセット有効$/;"	c
+RESET_ENABLE	src/include/global_config.v	/^		`define RESET_ENABLE  1'b1		\/\/ リセット有効$/;"	c
+SIM_CYCLE	src/bus_arbiter_tb.v	/^    `define SIM_CYCLE 60$/;"	c
+STEP	src/bus_arbiter_tb.v	/^    parameter STEP = 5.0000; \/\/ 10 M$/;"	c	module:bus_arbiter_tb
+TARGET_DEV_AZPR_EV_BOARD	src/include/global_config.v	/^	`define TARGET_DEV_AZPR_EV_BOARD	\/\/ AZPRオリジナル評価ボード$/;"	c
+WORD_ADDR_MSB	src/include/stddef.v	/^	`define WORD_ADDR_MSB		29		 \/\/ 最上位ビット$/;"	c
+WORD_ADDR_W	src/include/stddef.v	/^	`define WORD_ADDR_W			30		 \/\/ アドレス幅$/;"	c
+WORD_DATA_W	src/include/stddef.v	/^	`define WORD_DATA_W			32		 \/\/ データ幅$/;"	c
+WORD_MSB	src/include/stddef.v	/^	`define WORD_MSB			31		 \/\/ 最上位ビット$/;"	c
+WRITE	src/include/stddef.v	/^	`define WRITE				1'b0	 \/\/ 書き込み$/;"	c
+WordAddrBus	src/include/stddef.v	/^	`define WordAddrBus			29:0	 \/\/ アドレスバス$/;"	c
+WordAddrLoc	src/include/stddef.v	/^	`define WordAddrLoc			31:2	 \/\/ ワードアドレスの位置$/;"	c
+WordDataBus	src/include/stddef.v	/^	`define WordDataBus			31:0	 \/\/ データバス$/;"	c
+__BUS_HEADER__	src/include/bus.v	/^`define __BUS_HEADER__			 $/;"	c
+__GLOBAL_CONFIG_HEADER__	src/include/global_config.v	/^	`define __GLOBAL_CONFIG_HEADER__	\/\/ インクルードガード$/;"	c
+__NETTYPE_HEADER__	src/include/nettype.v	/^`define __NETTYPE_HEADER__$/;"	c
+__STDDEF_HEADER__	src/include/stddef.v	/^`define __STDDEF_HEADER__$/;"	c
+bus_arbiter	src/bus_arbiter.v	/^module bus_arbiter ($/;"	m
+bus_arbiter_tb	src/bus_arbiter_tb.v	/^module bus_arbiter_tb; $/;"	m
+clk	src/bus_arbiter.v	/^	input  wire		   clk,		 \/\/ クロック$/;"	p	module:bus_arbiter
+clk	src/bus_arbiter_tb.v	/^    reg clk, reset; $/;"	r	module:bus_arbiter_tb
+editor.fontFamily	.vscode/settings.json	/^    "editor.fontFamily": "JetBrains Mono,Menlo, Monaco, 'Courier New', monospace"$/;"	s
+editor.fontSize	.vscode/settings.json	/^    "editor.fontSize": 15,$/;"	n
+m0_grnt_	src/bus_arbiter.v	/^	output reg		   m0_grnt_, \/\/ バスグラント$/;"	p	module:bus_arbiter
+m0_grnt_	src/bus_arbiter_tb.v	/^    wire m0_grnt_,m1_grnt_,m2_grnt_,m3_grnt_;$/;"	n	module:bus_arbiter_tb
+m0_req_	src/bus_arbiter.v	/^	input  wire		   m0_req_,	 \/\/ バスリクエスト$/;"	p	module:bus_arbiter
+m0_req_	src/bus_arbiter_tb.v	/^    reg m0_req_,m1_req_,m2_req_,m3_req_;$/;"	r	module:bus_arbiter_tb
+m1_grnt_	src/bus_arbiter.v	/^	output reg		   m1_grnt_, \/\/ バスグラント$/;"	p	module:bus_arbiter
+m1_grnt_	src/bus_arbiter_tb.v	/^    wire m0_grnt_,m1_grnt_,m2_grnt_,m3_grnt_;$/;"	n	module:bus_arbiter_tb
+m1_req_	src/bus_arbiter.v	/^	input  wire		   m1_req_,	 \/\/ バスリクエスト$/;"	p	module:bus_arbiter
+m1_req_	src/bus_arbiter_tb.v	/^    reg m0_req_,m1_req_,m2_req_,m3_req_;$/;"	r	module:bus_arbiter_tb
+m2_grnt_	src/bus_arbiter.v	/^	output reg		   m2_grnt_, \/\/ バスグラント$/;"	p	module:bus_arbiter
+m2_grnt_	src/bus_arbiter_tb.v	/^    wire m0_grnt_,m1_grnt_,m2_grnt_,m3_grnt_;$/;"	n	module:bus_arbiter_tb
+m2_req_	src/bus_arbiter.v	/^	input  wire		   m2_req_,	 \/\/ バスリクエスト$/;"	p	module:bus_arbiter
+m2_req_	src/bus_arbiter_tb.v	/^    reg m0_req_,m1_req_,m2_req_,m3_req_;$/;"	r	module:bus_arbiter_tb
+m3_grnt_	src/bus_arbiter.v	/^	output reg		   m3_grnt_	 \/\/ バスグラント$/;"	p	module:bus_arbiter
+m3_grnt_	src/bus_arbiter_tb.v	/^    wire m0_grnt_,m1_grnt_,m2_grnt_,m3_grnt_;$/;"	n	module:bus_arbiter_tb
+m3_req_	src/bus_arbiter.v	/^	input  wire		   m3_req_,	 \/\/ バスリクエスト$/;"	p	module:bus_arbiter
+m3_req_	src/bus_arbiter_tb.v	/^    reg m0_req_,m1_req_,m2_req_,m3_req_;$/;"	r	module:bus_arbiter_tb
+owner	src/bus_arbiter.v	/^	reg [`BusOwnerBus] owner;	 \/\/ バス権の所有者$/;"	r	module:bus_arbiter
+reset	src/bus_arbiter.v	/^	input  wire		   reset,	 \/\/ 非同期リセット$/;"	p	module:bus_arbiter
+reset	src/bus_arbiter_tb.v	/^    reg clk, reset; $/;"	r	module:bus_arbiter_tb

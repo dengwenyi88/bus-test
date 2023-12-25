@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/sherlock/Documents/project_chisel/test/target/scala-2.13/-name-_2.13-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sherlock/Documents/project_chisel/test/target/scala-2.13/classes/test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/AND.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sherlock/Documents/project_chisel/test/target/scala-2.13/classes/test/AND.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/bus_arbiter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sherlock/Documents/project_chisel/test/target/scala-2.13/classes/test/bus_arbiter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/AND$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sherlock/Documents/project_chisel/test/target/scala-2.13/classes/test/AND$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/bus_arbiter$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sherlock/Documents/project_chisel/test/target/scala-2.13/classes/test/bus_arbiter$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

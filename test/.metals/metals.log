@@ -1,0 +1,127 @@
+2023.12.24 21:58:27 INFO  Started: Metals version 1.2.0 in folders '/Users/sherlock/Documents/project_chisel/test' for client Visual Studio Code 1.85.1.
+2023.12.24 21:58:29 WARN  Build server is not auto-connectable.
+2023.12.24 21:58:29 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/AND.scala
+2023.12.24 22:03:39 INFO  no build target found for /Users/sherlock/Documents/project_chisel/test/src/main/scala/AND.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.12.24 22:03:39 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/build.sbt
+2023.12.24 22:03:41 INFO  time: code lens generation in 5m11s
+2023.12.24 22:03:41 INFO  time: code lens generation in 4m53s
+2023.12.24 22:03:41 INFO  time: code lens generation in 1.95s
+2023.12.24 22:03:41 INFO  time: code lens generation in 1.89s
+2023.12.24 22:03:41 INFO  time: code lens generation in 1.96s
+2023.12.24 22:16:59 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:16:59 WARN  Could not find semantic tokens for: file:///Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:17:00 WARN  Could not find semantic tokens for: file:///Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:20:13 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/ANDtest.scala
+2023.12.24 22:20:21 WARN  Could not find semantic tokens for: file:///Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:20:22 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:20:23 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:20:27 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:20:57 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:20:57 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:21:59 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:21:59 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:22:22 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:22:22 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:22:46 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:22:46 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:23:41 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:23:41 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:25:01 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:25:01 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:25:01 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:25:19 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:25:19 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:25:19 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:28:16 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:28:16 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:28:32 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:28:33 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:33:41 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:33:41 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:34:33 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:33 WARN  Could not find semantic tokens for: file:///Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:33 WARN  Could not find semantic tokens for: file:///Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:41 WARN  Could not find semantic tokens for: file:///Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:43 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:43 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:52 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:52 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:56 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:56 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:34:56 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+12月 24, 2023 10:35:09 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1155
+2023.12.24 22:35:13 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/build.sbt
+12月 24, 2023 10:35:26 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1167
+2023.12.24 22:35:28 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/ANDtest.scala
+12月 24, 2023 10:35:30 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1179
+2023.12.24 22:35:33 WARN  Using indexes to guess the definition of arbiter
+2023.12.24 22:35:38 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:35:38 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:35:41 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:35:41 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+12月 24, 2023 10:35:48 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1220
+12月 24, 2023 10:35:49 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1225
+12月 24, 2023 10:37:20 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1236
+2023.12.24 22:37:28 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:37:28 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:37:28 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:37:44 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:37:44 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:37:47 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.24 22:37:47 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+12月 24, 2023 10:39:03 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1342
+2023.12.24 22:44:31 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:44:31 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:44:31 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:50:09 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:50:09 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:50:09 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:51:18 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:51:18 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:54:30 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:54:30 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:54:30 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:55:12 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:55:12 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:55:44 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:55:44 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:55:44 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:56:34 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:56:35 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:56:35 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:57:16 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:57:16 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:57:16 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:58:20 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:58:21 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:58:21 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:59:12 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:59:12 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 22:59:12 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.24 23:00:23 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/ANDtest.scala
+12月 25, 2023 2:34:17 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+12月 25, 2023 2:34:19 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2023.12.25 17:01:13 INFO  Shutting down server
+2023.12.25 17:01:13 INFO  shutting down Metals
+2023.12.25 17:01:13 INFO  Exiting server
+2023.12.25 17:46:03 INFO  Started: Metals version 1.2.0 in folders '/Users/sherlock/Documents/project_verilog/bus, /Users/sherlock/Documents/project_chisel/test' for client Visual Studio Code 1.85.1.
+2023.12.25 17:46:05 WARN  Build server is not auto-connectable.
+2023.12.25 17:46:05 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.25 17:46:11 INFO  no build target found for /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.12.25 17:46:13 INFO  time: code lens generation in 8.7s
+2023.12.25 17:46:13 INFO  time: code lens generation in 7.65s
+2023.12.25 17:46:52 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.25 17:46:55 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/test/scala/bus_arbiter_tb.scala
+2023.12.25 17:46:58 WARN  no build target for: /Users/sherlock/Documents/project_chisel/test/src/main/scala/bus_arbiter.scala
+2023.12.25 17:47:51 INFO  Shutting down server
+2023.12.25 17:47:51 INFO  shutting down Metals
+2023.12.25 17:47:51 INFO  Exiting server
