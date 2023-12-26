@@ -2,13 +2,13 @@
 [0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
 [0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 6 products, 2 sources, 4 libraries[0m
 [0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/test/scala/ANDtest.scala, ${BASE}/src/test/scala/bus_arbiter_tb.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set(NamesChange(test.bus_arbiter,ModifiedNames(changes = UsedName(io,[Default]), UsedName(out,[Default])))))[0m
-[0m[[0m[0mdebug[0m] [0m[0mThe test.bus_arbiter has the following regular definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName(io,[Default]), UsedName(out,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set(NamesChange(test.bus_addr_dec,ModifiedNames(changes = UsedName(out,[Default]), UsedName(io,[Default])))))[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe test.bus_addr_dec has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(out,[Default]), UsedName(io,[Default]).[0m
 [0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) test.bus_arbiter: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) test.bus_addr_dec: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mNow invalidating by inheritance (internally).[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
-[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) test.bus_arbiter.[0m
-[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of test.testBusArbiter. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) test.bus_addr_dec.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of test.testMain. This dependency is not being considered for invalidation.[0m
 [0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

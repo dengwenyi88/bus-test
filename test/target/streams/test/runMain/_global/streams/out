@@ -1,7 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0mchisel3.internal.ChiselException: Connection between left (bus_arbiter.io.out: IO[DecoupledIO]) and source (RRArbiter.io.out: IO[DecoupledIO]) failed @.bits: Left (bus_arbiter.io.out.bits: IO[UInt<1>[4]]) and Right (RRArbiter.io.out.bits: IO[UInt<1>]) have different types.[0m
+[0m[[0m[31merror[0m] [0m[0mchisel3.internal.ChiselException: Connection between left (bus_addr_dec.io.out: IO[DecoupledIO[8]]) and source (bus_addr_dec.bools: OpResult[Bool]) failed @: Left (bus_addr_dec.io.out: IO[DecoupledIO[8]]) and Right (bus_addr_dec.bools: OpResult[Bool]) have different types.[0m
 [0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
-[0m[[0m[31merror[0m] [0m[0m	at test.bus_arbiter.<init>(bus_arbiter.scala:15)[0m
-[0m[[0m[31merror[0m] [0m[0m	at test.testBusArbiter$.$anonfun$new$1(bus_arbiter_tb.scala:9)[0m
+[0m[[0m[31merror[0m] [0m[0m	at test.bus_addr_dec.<init>(bus_addr_dec.scala:13)[0m
+[0m[[0m[31merror[0m] [0m[0m	at test.testMain$.$anonfun$new$3(bus_arbiter_tb.scala:15)[0m
 [0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
 [0m[[0m[31merror[0m] [0m[0m	at ... (Stack trace trimmed to user code only. Rerun with --full-stacktrace to see the full stack trace)[0m
-[0m[[0m[31merror[0m] [0m[0m(Test / [31mrunMain[0m) chisel3.internal.ChiselException: Connection between left (bus_arbiter.io.out: IO[DecoupledIO]) and source (RRArbiter.io.out: IO[DecoupledIO]) failed @.bits: Left (bus_arbiter.io.out.bits: IO[UInt<1>[4]]) and Right (RRArbiter.io.out.bits: IO[UInt<1>]) have different types.[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mrunMain[0m) chisel3.internal.ChiselException: Connection between left (bus_addr_dec.io.out: IO[DecoupledIO[8]]) and source (bus_addr_dec.bools: OpResult[Bool]) failed @: Left (bus_addr_dec.io.out: IO[DecoupledIO[8]]) and Right (bus_addr_dec.bools: OpResult[Bool]) have different types.[0m

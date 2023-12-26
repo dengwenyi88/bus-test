@@ -31,16 +31,16 @@ module bus_arbiter (
 		m3_grnt_ = `DISABLE_;
 		
 		case (owner)
-			`BUS_OWNER_MASTER_0 : begin // バスマスタ0番
+			`BUS_OWNER_MASTER_0 : begin 
 				m0_grnt_ = `ENABLE_;
 			end
-			`BUS_OWNER_MASTER_1 : begin // バスマスタ1番
+			`BUS_OWNER_MASTER_1 : begin 
 				m1_grnt_ = `ENABLE_;
 			end
-			`BUS_OWNER_MASTER_2 : begin // バスマスタ2番
+			`BUS_OWNER_MASTER_2 : begin 
 				m2_grnt_ = `ENABLE_;
 			end
-			`BUS_OWNER_MASTER_3 : begin // バスマスタ3番
+			`BUS_OWNER_MASTER_3 : begin 
 				m3_grnt_ = `ENABLE_;
 			end
 		endcase

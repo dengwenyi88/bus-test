@@ -1,0 +1,13 @@
+
+test/target
+test/project/target
+test/generated
+test/project
+
+.metals/
+.vscode/
+
+.bloop/
+.bsp/
+
+metals.sbt
